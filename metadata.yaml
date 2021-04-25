@@ -1,0 +1,23 @@
+_repo: How-To-Sing_65146
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tetrazzini, Luisa
+    birthdate: 1871
+    deathdate: 1940
+    gutenberg_agent_id: '9063'
+    url: http://www.gutenberg.org/2009/agents/9063
+    wikipedia: http://en.wikipedia.org/wiki/Luisa_Tetrazzini
+description: ''
+gutenberg_issued: '2021-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: How To Sing
+url: http://www.gutenberg.org/ebooks/65146
